@@ -1,0 +1,4588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="sonar-foliaviewer.xsl"?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="WR-P-E-E-0000000020" version="0.8.0" generator="pynlpl.formats.folia-v0.8.0.18">
+  <metadata src="WR-P-E-E-0000000020.cmdi" type="imdi">
+    <annotations>
+      <token-annotation annotator="ilktok" annotatortype="auto"/>
+      <pos-annotation annotator="frog" annotatortype="auto" set="hdl:1839/00-SCHM-0000-0000-000B-9"/>
+      <lemma-annotation annotator="frog" annotatortype="auto" set="hdl:1839/00-SCHM-0000-0000-000E-3"/>
+<gap-annotation />
+      <entity-annotation annotator="NERD" annotatortype="auto" set="hdl:1839/00-SCHM-0000-0000-000D-5"/>
+    </annotations>
+  </metadata>
+  <text xml:id="WR-P-E-E-0000000020.text">
+    <div xml:id="WR-P-E-E-0000000020.div.1">
+      <head xml:id="WR-P-E-E-0000000020.head.1">
+        <s xml:id="WR-P-E-E-0000000020.head.1.s.1">
+          <w xml:id="WR-P-E-E-0000000020.head.1.s.1.w.1">
+            <t>taal-</t>
+            <lemma class="_"/>
+            <pos class="SPEC(afgebr)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="afgebr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.1.s.1.w.2">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.1.s.1.w.3">
+            <t>spraaktechnologienieuws</t>
+            <lemma class="spraaktechnologienieuws"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.1.s.1.w.4">
+            <t>mei'03</t>
+            <lemma class="_"/>
+            <pos class="SPEC(symb)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="symb"/>
+            </pos>
+          </w>
+        </s>
+      </head>
+    </div>
+    <div xml:id="WR-P-E-E-0000000020.div.2">
+      <head xml:id="WR-P-E-E-0000000020.head.2">
+        <s xml:id="WR-P-E-E-0000000020.head.2.s.1">
+          <w xml:id="WR-P-E-E-0000000020.head.2.s.1.w.1">
+            <t>1</t>
+            <lemma class="1"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.2.s.1.w.2">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.head.2.s.2">
+          <w xml:id="WR-P-E-E-0000000020.head.2.s.2.w.1">
+            <t>EUROMAP-EINDRAPPORT</t>
+            <lemma class="Euromap-eindrapport"/>
+            <pos class="N(eigen,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.2.s.2.w.2">
+            <t>BESCHIKBAAR</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+        </s>
+      </head>
+      <p xml:id="WR-P-E-E-0000000020.p.1">
+        <s xml:id="WR-P-E-E-0000000020.p.1.s.1">
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.1">
+            <t>Het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.2">
+            <t>project</t>
+            <lemma class="project"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.3">
+            <t>Euromap</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.4">
+            <t>Language</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.5">
+            <t>Technologies</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.6">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.7">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.8">
+            <t>EU-initiatief</t>
+            <lemma class="eU-initiatief"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.9">
+            <t>ter</t>
+            <lemma class="te"/>
+            <pos class="VZ(versm)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="versm"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.10">
+            <t>promotie</t>
+            <lemma class="promotie"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.11">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.12">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.13">
+            <t>taal-</t>
+            <lemma class="_"/>
+            <pos class="SPEC(afgebr)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="afgebr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.14">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.15">
+            <t>spraaktechnologie</t>
+            <lemma class="spraaktechnologie"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.16">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.17">
+            <t>Europa</t>
+            <lemma class="Europa"/>
+            <pos class="N(eigen,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.18">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.19">
+            <t>is</t>
+            <lemma class="zijn"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.20">
+            <t>onlangs</t>
+            <lemma class="onlangs"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.21">
+            <t>afgesloten</t>
+            <lemma class="afsluiten"/>
+            <pos class="WW(vd,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="vd"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.1.w.22">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <entities>
+            <entity xml:id="WR-P-E-E-0000000020.p.1.s.1.entity.1" class="misc">
+              <wref id="WR-P-E-E-0000000020.p.1.s.1.w.3" t="Euromap"/>
+              <wref id="WR-P-E-E-0000000020.p.1.s.1.w.4" t="Language"/>
+              <wref id="WR-P-E-E-0000000020.p.1.s.1.w.5" t="Technologies"/>
+            </entity>
+            <entity xml:id="WR-P-E-E-0000000020.p.1.s.1.entity.2" class="misc">
+              <wref id="WR-P-E-E-0000000020.p.1.s.1.w.8" t="EU-initiatief"/>
+            </entity>
+            <entity xml:id="WR-P-E-E-0000000020.p.1.s.1.entity.3" class="loc">
+              <wref id="WR-P-E-E-0000000020.p.1.s.1.w.17" t="Europa"/>
+            </entity>
+          </entities>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.1.s.2">
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.1">
+            <t>Het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.2">
+            <t>projectteam</t>
+            <lemma class="projectteam"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.3">
+            <t>heeft</t>
+            <lemma class="hebben"/>
+            <pos class="WW(pv,tgw,met-t)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="met-t"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.4">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.5">
+            <t>lijvig</t>
+            <lemma class="lijvig"/>
+            <pos class="ADJ(prenom,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.6">
+            <t>eindrapport</t>
+            <lemma class="eindrapport"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.7">
+            <t>opgeleverd</t>
+            <lemma class="opleveren"/>
+            <pos class="WW(vd,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="vd"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.8">
+            <t>over</t>
+            <lemma class="over"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.9">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.10">
+            <t>stand</t>
+            <lemma class="stand"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.11">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.12">
+            <t>zaken</t>
+            <lemma class="zaak"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.13">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.14">
+            <t>onderzoek</t>
+            <lemma class="onderzoek"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.15">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.16">
+            <t>ontwikkeling</t>
+            <lemma class="ontwikkeling"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.17">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.18">
+            <t>toepassing</t>
+            <lemma class="toepassing"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.19">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.20">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.21">
+            <t>technologie</t>
+            <lemma class="technologie"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.22">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.23">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.24">
+            <t>verschillende</t>
+            <lemma class="verschillend"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.25">
+            <t>Europese</t>
+            <lemma class="Europees"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.26">
+            <t>lidstaten</t>
+            <lemma class="lidstaat"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.27">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.28">
+            <t>getiteld</t>
+            <lemma class="titelen"/>
+            <pos class="WW(vd,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="vd"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.29">
+            <t>"</t>
+            <lemma class="'"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.30">
+            <t>Benchmarking</t>
+            <lemma class="_"/>
+            <pos class="SPEC(vreemd)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="vreemd"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.31">
+            <t>HLT</t>
+            <lemma class="_"/>
+            <pos class="SPEC(vreemd)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="vreemd"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.32">
+            <t>progress</t>
+            <lemma class="_"/>
+            <pos class="SPEC(vreemd)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="vreemd"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.33">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.34">
+            <t>Europe</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.35">
+            <t>-</t>
+            <lemma class="-"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.36">
+            <t>The</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.37">
+            <t>EUROMAP</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.38">
+            <t>Study</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.39">
+            <t>"</t>
+            <lemma class="'"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.2.w.40">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <entities>
+            <entity xml:id="WR-P-E-E-0000000020.p.1.s.2.entity.1" class="loc">
+              <wref id="WR-P-E-E-0000000020.p.1.s.2.w.25" t="Europese"/>
+            </entity>
+            <entity xml:id="WR-P-E-E-0000000020.p.1.s.2.entity.2" class="pro">
+              <wref id="WR-P-E-E-0000000020.p.1.s.2.w.30" t="Benchmarking"/>
+              <wref id="WR-P-E-E-0000000020.p.1.s.2.w.31" t="HLT"/>
+              <wref id="WR-P-E-E-0000000020.p.1.s.2.w.32" t="progress"/>
+              <wref id="WR-P-E-E-0000000020.p.1.s.2.w.33" t="in"/>
+              <wref id="WR-P-E-E-0000000020.p.1.s.2.w.34" t="Europe"/>
+              <wref id="WR-P-E-E-0000000020.p.1.s.2.w.35" t="-"/>
+              <wref id="WR-P-E-E-0000000020.p.1.s.2.w.36" t="The"/>
+              <wref id="WR-P-E-E-0000000020.p.1.s.2.w.37" t="EUROMAP"/>
+              <wref id="WR-P-E-E-0000000020.p.1.s.2.w.38" t="Study"/>
+            </entity>
+          </entities>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.1.s.3">
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.1">
+            <t>Op</t>
+            <lemma class="op"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.2">
+            <t>basis</t>
+            <lemma class="basis"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.3">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.4">
+            <t>gegevens</t>
+            <lemma class="gegeven"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.5">
+            <t>over</t>
+            <lemma class="over"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.6">
+            <t>onderzoekscentra</t>
+            <lemma class="onderzoekscentrum"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.7">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.8">
+            <t>leveranciers</t>
+            <lemma class="leverancier"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.9">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.10">
+            <t>nationaal</t>
+            <lemma class="nationaal"/>
+            <pos class="ADJ(prenom,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.11">
+            <t>onderzoeksbeleid</t>
+            <lemma class="onderzoeksbeleid"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.12">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.13">
+            <t>marktanalyses</t>
+            <lemma class="marktanalyse"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.14">
+            <t>worden</t>
+            <lemma class="worden"/>
+            <pos class="WW(pv,tgw,mv)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.15">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.16">
+            <t>landen</t>
+            <lemma class="land"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.17">
+            <t>met</t>
+            <lemma class="met"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.18">
+            <t>elkaar</t>
+            <lemma class="elkaar"/>
+            <pos class="VNW(recip,pron,obl,vol,persoon,mv)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="recip"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="obl"/>
+              <feat subset="status" class="vol"/>
+              <feat subset="persoon" class="persoon"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.19">
+            <t>vergeleken</t>
+            <lemma class="vergelijken"/>
+            <pos class="WW(vd,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="vd"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.3.w.20">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.1.s.4">
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.4.w.1">
+            <t>Het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.4.w.2">
+            <t>rapport</t>
+            <lemma class="rapport"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.4.w.3">
+            <t>bevat</t>
+            <lemma class="bevatten"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.4.w.4">
+            <t>ook</t>
+            <lemma class="ook"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.4.w.5">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.4.w.6">
+            <t>aantal</t>
+            <lemma class="aantal"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.4.w.7">
+            <t>aanbevelingen</t>
+            <lemma class="aanbeveling"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.1.s.4.w.8">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+      </p>
+      <p xml:id="WR-P-E-E-0000000020.p.2">
+        <s xml:id="WR-P-E-E-0000000020.p.2.s.1">
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.1">
+            <t>Het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.2">
+            <t>volledige</t>
+            <lemma class="volledig"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.3">
+            <t>rapport</t>
+            <lemma class="rapport"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.4">
+            <t>(</t>
+            <lemma class="("/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.5">
+            <t>90</t>
+            <lemma class="90"/>
+            <pos class="TW(hoofd,prenom,stan)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.6">
+            <t>pagina's</t>
+            <lemma class="pagina"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.7">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.8">
+            <t>PDF</t>
+            <lemma class="Pdf"/>
+            <pos class="N(eigen,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.9">
+            <t>7,2</t>
+            <lemma class="7,2"/>
+            <pos class="TW(hoofd,prenom,stan)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.10">
+            <t>MB</t>
+            <lemma class="MB"/>
+            <pos class="N(eigen,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.11">
+            <t>)</t>
+            <lemma class=")"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.12">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.13">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.14">
+            <t>samenvatting</t>
+            <lemma class="samenvatting"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.15">
+            <t>ervan</t>
+            <lemma class="ervan"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.16">
+            <t>(</t>
+            <lemma class="("/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.17">
+            <t>14</t>
+            <lemma class="14"/>
+            <pos class="TW(hoofd,prenom,stan)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.18">
+            <t>pagina's</t>
+            <lemma class="pagina"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.19">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.20">
+            <t>Word</t>
+            <lemma class="worden"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.21">
+            <t>206</t>
+            <lemma class="_"/>
+            <pos class="SPEC(symb)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="symb"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.22">
+            <t>KB</t>
+            <lemma class="kB"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.23">
+            <t>)</t>
+            <lemma class=")"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.24">
+            <t>zijn</t>
+            <lemma class="zijn"/>
+            <pos class="WW(pv,tgw,mv)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.25">
+            <t>on-line</t>
+            <lemma class="on-line"/>
+            <pos class="ADJ(vrij,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.26">
+            <t>beschikbaar</t>
+            <lemma class="beschikbaar"/>
+            <pos class="ADJ(vrij,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.27">
+            <t>via</t>
+            <lemma class="via"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.28">
+            <t>http://www.hltcentral.org/page-243.shtml</t>
+            <lemma class="_"/>
+            <pos class="SPEC(symb)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="symb"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.2.s.1.w.29">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+      </p>
+      <p xml:id="WR-P-E-E-0000000020.p.3">
+        <s xml:id="WR-P-E-E-0000000020.p.3.s.1">
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.1">
+            <t>Wilt</t>
+            <lemma class="willen"/>
+            <pos class="WW(pv,tgw,met-t)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="met-t"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.2">
+            <t>u</t>
+            <lemma class="u"/>
+            <pos class="VNW(pers,pron,nomin,vol,2b,getal)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="pers"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="nomin"/>
+              <feat subset="status" class="vol"/>
+              <feat subset="persoon" class="2b"/>
+              <feat subset="getal" class="getal"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.3">
+            <t>het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.4">
+            <t>volledige</t>
+            <lemma class="volledig"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.5">
+            <t>rapport</t>
+            <lemma class="rapport"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.6">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.7">
+            <t>gedrukte</t>
+            <lemma class="drukken"/>
+            <pos class="WW(vd,prenom,met-e)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="vd"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="buiging" class="met-e"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.8">
+            <t>vorm</t>
+            <lemma class="vorm"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.9">
+            <t>ontvangen</t>
+            <lemma class="ontvangen"/>
+            <pos class="WW(vd,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="vd"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.10">
+            <t>(</t>
+            <lemma class="("/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.11">
+            <t>verzendkosten</t>
+            <lemma class="verzendkosten"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.12">
+            <t>5</t>
+            <lemma class="5"/>
+            <pos class="TW(hoofd,prenom,stan)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.13">
+            <t>euro</t>
+            <lemma class="euro"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.14">
+            <t>)</t>
+            <lemma class=")"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.15">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.16">
+            <t>dan</t>
+            <lemma class="dan"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.17">
+            <t>is</t>
+            <lemma class="zijn"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.18">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.19">
+            <t>berichtje</t>
+            <lemma class="bericht"/>
+            <pos class="N(soort,ev,dim,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="dim"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.20">
+            <t>met</t>
+            <lemma class="met"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.21">
+            <t>uw</t>
+            <lemma class="uw"/>
+            <pos class="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="bez"/>
+              <feat subset="pdtype" class="det"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="vol"/>
+              <feat subset="persoon" class="2"/>
+              <feat subset="getal" class="getal"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="buiging" class="zonder"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.22">
+            <t>adresgegevens</t>
+            <lemma class="adresgegevens"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.23">
+            <t>naar</t>
+            <lemma class="naar"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.24">
+            <t>euromap@ntu.nl</t>
+            <lemma class="_"/>
+            <pos class="SPEC(symb)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="symb"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.25">
+            <t>voldoende</t>
+            <lemma class="voldoen"/>
+            <pos class="ADJ(prenom,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.1.w.26">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.3.s.2">
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.1">
+            <t>NB</t>
+            <lemma class="NB"/>
+            <pos class="N(eigen,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.2">
+            <t>:</t>
+            <lemma class=":"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.3">
+            <t>Deelnemers</t>
+            <lemma class="deelnemer"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.4">
+            <t>aan</t>
+            <lemma class="aan"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.5">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.6">
+            <t>TST-dag</t>
+            <lemma class="tst-dag"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.7">
+            <t>op</t>
+            <lemma class="op"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.8">
+            <t>7</t>
+            <lemma class="7"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.9">
+            <t>februari</t>
+            <lemma class="februari"/>
+            <pos class="N(eigen,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.10">
+            <t>jongstleden</t>
+            <lemma class="jongstleden"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.11">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.12">
+            <t>Antwerpen</t>
+            <lemma class="Antwerpen"/>
+            <pos class="N(eigen,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.13">
+            <t>ontvangen</t>
+            <lemma class="ontvangen"/>
+            <pos class="WW(vd,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="vd"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.14">
+            <t>het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.15">
+            <t>rapport</t>
+            <lemma class="rapport"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.16">
+            <t>sowieso</t>
+            <lemma class="sowieso"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.17">
+            <t>-</t>
+            <lemma class="-"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.18">
+            <t>zij</t>
+            <lemma class="zij"/>
+            <pos class="VNW(pers,pron,nomin,vol,3p,mv)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="pers"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="nomin"/>
+              <feat subset="status" class="vol"/>
+              <feat subset="persoon" class="3p"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.19">
+            <t>hoeven</t>
+            <lemma class="hoeven"/>
+            <pos class="WW(pv,tgw,mv)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.20">
+            <t>niet</t>
+            <lemma class="niet"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.21">
+            <t>meer</t>
+            <lemma class="veel"/>
+            <pos class="VNW(onbep,grad,stan,vrij,zonder,comp)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="pdtype" class="grad"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+              <feat subset="graad" class="comp"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.22">
+            <t>te</t>
+            <lemma class="te"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.23">
+            <t>mailen</t>
+            <lemma class="mailen"/>
+            <pos class="WW(inf,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.3.s.2.w.24">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <entities>
+            <entity xml:id="WR-P-E-E-0000000020.p.3.s.2.entity.1" class="misc">
+              <wref id="WR-P-E-E-0000000020.p.3.s.2.w.6" t="TST-dag"/>
+            </entity>
+            <entity xml:id="WR-P-E-E-0000000020.p.3.s.2.entity.2" class="loc">
+              <wref id="WR-P-E-E-0000000020.p.3.s.2.w.12" t="Antwerpen"/>
+            </entity>
+          </entities>
+        </s>
+      </p>
+    </div>
+    <div xml:id="WR-P-E-E-0000000020.div.3">
+      <head xml:id="WR-P-E-E-0000000020.head.3">
+        <s xml:id="WR-P-E-E-0000000020.head.3.s.1">
+          <w xml:id="WR-P-E-E-0000000020.head.3.s.1.w.1">
+            <t>2</t>
+            <lemma class="2"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.3.s.1.w.2">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.head.3.s.2">
+          <w xml:id="WR-P-E-E-0000000020.head.3.s.2.w.1">
+            <t>NIEUWE</t>
+            <lemma class="nieuwe"/>
+            <pos class="VNW(pers,pron,nomin,red,1,mv)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="pers"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="nomin"/>
+              <feat subset="status" class="red"/>
+              <feat subset="persoon" class="1"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.3.s.2.w.2">
+            <t>MASTERS-OPLEIDING</t>
+            <lemma class="masters-opleiding"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.3.s.2.w.3">
+            <t>HUMAN</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.3.s.2.w.4">
+            <t>MEDIA</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.3.s.2.w.5">
+            <t>INTERACTION</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+        </s>
+      </head>
+      <p xml:id="WR-P-E-E-0000000020.p.4">
+        <s xml:id="WR-P-E-E-0000000020.p.4.s.1">
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.1">
+            <t>De</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.2">
+            <t>opleiding</t>
+            <lemma class="opleiding"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.3">
+            <t>Human</t>
+            <lemma class="_"/>
+            <pos class="SPEC(vreemd)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="vreemd"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.4">
+            <t>Media</t>
+            <lemma class="media"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.5">
+            <t>Interaction</t>
+            <lemma class="interaction"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.6">
+            <t>aan</t>
+            <lemma class="aan"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.7">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.8">
+            <t>Universiteit</t>
+            <lemma class="universiteit"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.9">
+            <t>Twente</t>
+            <lemma class="Twente"/>
+            <pos class="N(eigen,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.10">
+            <t>gaat</t>
+            <lemma class="gaan"/>
+            <pos class="WW(pv,tgw,met-t)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="met-t"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.11">
+            <t>voor</t>
+            <lemma class="voor"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.12">
+            <t>het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.13">
+            <t>eerst</t>
+            <lemma class="eerst"/>
+            <pos class="TW(rang,nom,zonder-n)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="rang"/>
+              <feat subset="positie" class="nom"/>
+              <feat subset="getal-n" class="zonder-n"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.14">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.15">
+            <t>start</t>
+            <lemma class="start"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.16">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.17">
+            <t>september</t>
+            <lemma class="september"/>
+            <pos class="N(eigen,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.18">
+            <t>2003</t>
+            <lemma class="2003"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.1.w.19">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <entities>
+            <entity xml:id="WR-P-E-E-0000000020.p.4.s.1.entity.1" class="pro">
+              <wref id="WR-P-E-E-0000000020.p.4.s.1.w.3" t="Human"/>
+              <wref id="WR-P-E-E-0000000020.p.4.s.1.w.4" t="Media"/>
+              <wref id="WR-P-E-E-0000000020.p.4.s.1.w.5" t="Interaction"/>
+              <wref id="WR-P-E-E-0000000020.p.4.s.1.w.6" t="aan"/>
+              <wref id="WR-P-E-E-0000000020.p.4.s.1.w.7" t="de"/>
+              <wref id="WR-P-E-E-0000000020.p.4.s.1.w.8" t="Universiteit"/>
+              <wref id="WR-P-E-E-0000000020.p.4.s.1.w.9" t="Twente"/>
+            </entity>
+          </entities>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.4.s.2">
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.1">
+            <t>Een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.2">
+            <t>nieuwe</t>
+            <lemma class="nieuw"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.3">
+            <t>studie</t>
+            <lemma class="studie"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.4">
+            <t>die</t>
+            <lemma class="die"/>
+            <pos class="VNW(betr,pron,stan,vol,persoon,getal)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="betr"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="vol"/>
+              <feat subset="persoon" class="persoon"/>
+              <feat subset="getal" class="getal"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.5">
+            <t>leidt</t>
+            <lemma class="leiden"/>
+            <pos class="WW(pv,tgw,met-t)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="met-t"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.6">
+            <t>tot</t>
+            <lemma class="tot"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.7">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.8">
+            <t>diploma</t>
+            <lemma class="diploma"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.9">
+            <t>Master</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.10">
+            <t>of</t>
+            <lemma class="of"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.11">
+            <t>Science</t>
+            <lemma class="Science"/>
+            <pos class="N(eigen,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.12">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.13">
+            <t>Human</t>
+            <lemma class="_"/>
+            <pos class="SPEC(vreemd)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="vreemd"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.14">
+            <t>Media</t>
+            <lemma class="media"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.15">
+            <t>Interactions</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.2.w.16">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.4.s.3">
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.1">
+            <t>Het</t>
+            <lemma class="het"/>
+            <pos class="VNW(pers,pron,stan,red,3,ev,onz)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="pers"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="red"/>
+              <feat subset="persoon" class="3"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="genus" class="onz"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.2">
+            <t>is</t>
+            <lemma class="zijn"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.3">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.4">
+            <t>technische</t>
+            <lemma class="technisch"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.5">
+            <t>studie</t>
+            <lemma class="studie"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.6">
+            <t>waarin</t>
+            <lemma class="waarin"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.7">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.8">
+            <t>diverse</t>
+            <lemma class="divers"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.9">
+            <t>aspecten</t>
+            <lemma class="aspect"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.10">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.11">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.12">
+            <t>interactie</t>
+            <lemma class="interactie"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.13">
+            <t>tussen</t>
+            <lemma class="tussen"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.14">
+            <t>mens</t>
+            <lemma class="mens"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.15">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.16">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.17">
+            <t>digitale</t>
+            <lemma class="digitaal"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.18">
+            <t>media</t>
+            <lemma class="media"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.19">
+            <t>belicht</t>
+            <lemma class="belichten"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.20">
+            <t>worden</t>
+            <lemma class="worden"/>
+            <pos class="WW(inf,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.4.s.3.w.21">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+      </p>
+      <p xml:id="WR-P-E-E-0000000020.p.5">
+        <s xml:id="WR-P-E-E-0000000020.p.5.s.1">
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.1">
+            <t>Er</t>
+            <lemma class="er"/>
+            <pos class="VNW(aanw,adv-pron,stan,red,3,getal)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="aanw"/>
+              <feat subset="pdtype" class="adv-pron"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="red"/>
+              <feat subset="persoon" class="3"/>
+              <feat subset="getal" class="getal"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.2">
+            <t>is</t>
+            <lemma class="zijn"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.3">
+            <t>ruim</t>
+            <lemma class="ruim"/>
+            <pos class="ADJ(vrij,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.4">
+            <t>aandacht</t>
+            <lemma class="aandacht"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.5">
+            <t>voor</t>
+            <lemma class="voor"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.6">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.7">
+            <t>technologische</t>
+            <lemma class="technologisch"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.8">
+            <t>aspecten</t>
+            <lemma class="aspect"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.9">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.10">
+            <t>voor</t>
+            <lemma class="voor"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.11">
+            <t>het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.12">
+            <t>systematisch</t>
+            <lemma class="systematisch"/>
+            <pos class="ADJ(vrij,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.13">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.14">
+            <t>creatief</t>
+            <lemma class="creatief"/>
+            <pos class="ADJ(vrij,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.15">
+            <t>ontwerpen</t>
+            <lemma class="ontwerpen"/>
+            <pos class="WW(inf,nom,zonder,zonder-n)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="nom"/>
+              <feat subset="buiging" class="zonder"/>
+              <feat subset="getal-n" class="zonder-n"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.16">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.17">
+            <t>nieuwe</t>
+            <lemma class="nieuw"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.18">
+            <t>interfaces</t>
+            <lemma class="interface"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.1.w.19">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.5.s.2">
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.1">
+            <t>Bij</t>
+            <lemma class="bij"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.2">
+            <t>dat</t>
+            <lemma class="dat"/>
+            <pos class="VNW(aanw,pron,stan,vol,3o,ev)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="aanw"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="vol"/>
+              <feat subset="persoon" class="3o"/>
+              <feat subset="getal" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.3">
+            <t>ontwerpproces</t>
+            <lemma class="ontwerpproces"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.4">
+            <t>werken</t>
+            <lemma class="werken"/>
+            <pos class="WW(pv,tgw,mv)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.5">
+            <t>technisch</t>
+            <lemma class="technisch"/>
+            <pos class="ADJ(prenom,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.6">
+            <t>opgeleide</t>
+            <lemma class="opleiden"/>
+            <pos class="WW(vd,prenom,met-e)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="vd"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="buiging" class="met-e"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.7">
+            <t>studenten</t>
+            <lemma class="student"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.8">
+            <t>samen</t>
+            <lemma class="samen"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.9">
+            <t>met</t>
+            <lemma class="met"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.10">
+            <t>ontwerpers</t>
+            <lemma class="ontwerper"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.11">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.12">
+            <t>mediakunstenaars</t>
+            <lemma class="mediakunstenaar"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.2.w.13">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.5.s.3">
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.1">
+            <t>De</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.2">
+            <t>studie</t>
+            <lemma class="studie"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.3">
+            <t>biedt</t>
+            <lemma class="bieden"/>
+            <pos class="WW(pv,tgw,met-t)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="met-t"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.4">
+            <t>tevens</t>
+            <lemma class="tevens"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.5">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.6">
+            <t>initiatie</t>
+            <lemma class="initiatie"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.7">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.8">
+            <t>vele</t>
+            <lemma class="veel"/>
+            <pos class="VNW(onbep,grad,stan,prenom,met-e,agr,basis)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="pdtype" class="grad"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="npagr" class="agr"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.9">
+            <t>aspecten</t>
+            <lemma class="aspect"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.10">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.11">
+            <t>het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.12">
+            <t>wetenschappelijk</t>
+            <lemma class="wetenschappelijk"/>
+            <pos class="ADJ(prenom,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.13">
+            <t>onderzoek</t>
+            <lemma class="onderzoek"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.14">
+            <t>rond</t>
+            <lemma class="rond"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.15">
+            <t>human</t>
+            <lemma class="_"/>
+            <pos class="SPEC(vreemd)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="vreemd"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.16">
+            <t>media</t>
+            <lemma class="media"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.17">
+            <t>interaction</t>
+            <lemma class="interaction"/>
+            <pos class="WW(inf,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.3.w.18">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.5.s.4">
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.1">
+            <t>Daarbij</t>
+            <lemma class="daarbij"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.2">
+            <t>gaat</t>
+            <lemma class="gaan"/>
+            <pos class="WW(pv,tgw,met-t)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="met-t"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.3">
+            <t>het</t>
+            <lemma class="het"/>
+            <pos class="VNW(pers,pron,stan,red,3,ev,onz)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="pers"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="red"/>
+              <feat subset="persoon" class="3"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="genus" class="onz"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.4">
+            <t>niet</t>
+            <lemma class="niet"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.5">
+            <t>alleen</t>
+            <lemma class="alleen"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.6">
+            <t>om</t>
+            <lemma class="om"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.7">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.8">
+            <t>technische</t>
+            <lemma class="technisch"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.9">
+            <t>maar</t>
+            <lemma class="maar"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.10">
+            <t>ook</t>
+            <lemma class="ook"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.11">
+            <t>om</t>
+            <lemma class="om"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.12">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.13">
+            <t>menselijke</t>
+            <lemma class="menselijk"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.14">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.15">
+            <t>maatschappelijke</t>
+            <lemma class="maatschappelijk"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.16">
+            <t>kanten</t>
+            <lemma class="kant"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.5.s.4.w.17">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+      </p>
+      <p xml:id="WR-P-E-E-0000000020.p.6">
+        <s xml:id="WR-P-E-E-0000000020.p.6.s.1">
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.1">
+            <t>De</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.2">
+            <t>Master</t>
+            <lemma class="master"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.3">
+            <t>of</t>
+            <lemma class="of"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.4">
+            <t>Science</t>
+            <lemma class="Science"/>
+            <pos class="N(eigen,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.5">
+            <t>is</t>
+            <lemma class="zijn"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.6">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="TW(hoofd,prenom,stan)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.7">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.8">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.9">
+            <t>technische</t>
+            <lemma class="technisch"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.10">
+            <t>informatica</t>
+            <lemma class="informatica"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.11">
+            <t>afstudeertrajecten</t>
+            <lemma class="afstudeertrajecten"/>
+            <pos class="WW(pv,verl,mv)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="verl"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.1.w.12">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.6.s.2">
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.1">
+            <t>Afgestudeerden</t>
+            <lemma class="afgestudeerde"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.2">
+            <t>moeten</t>
+            <lemma class="moeten"/>
+            <pos class="WW(pv,tgw,mv)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.3">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.4">
+            <t>staat</t>
+            <lemma class="staat"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.5">
+            <t>zijn</t>
+            <lemma class="zijn"/>
+            <pos class="WW(inf,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.6">
+            <t>als</t>
+            <lemma class="als"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.7">
+            <t>informaticus</t>
+            <lemma class="informaticus"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.8">
+            <t>projecten</t>
+            <lemma class="project"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.9">
+            <t>te</t>
+            <lemma class="te"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.10">
+            <t>realiseren</t>
+            <lemma class="realiseren"/>
+            <pos class="WW(inf,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.11">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.12">
+            <t>ervaring</t>
+            <lemma class="ervaring"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.13">
+            <t>hebben</t>
+            <lemma class="hebben"/>
+            <pos class="WW(pv,tgw,mv)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.14">
+            <t>met</t>
+            <lemma class="met"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.15">
+            <t>het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.16">
+            <t>uitvoeren</t>
+            <lemma class="uitvoeren"/>
+            <pos class="WW(inf,nom,zonder,zonder-n)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="nom"/>
+              <feat subset="buiging" class="zonder"/>
+              <feat subset="getal-n" class="zonder-n"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.17">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.18">
+            <t>onderzoek</t>
+            <lemma class="onderzoek"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.2.w.19">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.6.s.3">
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.1">
+            <t>Anderzijds</t>
+            <lemma class="anderzijds"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.2">
+            <t>is</t>
+            <lemma class="zijn"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.3">
+            <t>er</t>
+            <lemma class="er"/>
+            <pos class="VNW(aanw,adv-pron,stan,red,3,getal)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="aanw"/>
+              <feat subset="pdtype" class="adv-pron"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="red"/>
+              <feat subset="persoon" class="3"/>
+              <feat subset="getal" class="getal"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.4">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.5">
+            <t>deze</t>
+            <lemma class="deze"/>
+            <pos class="VNW(aanw,det,stan,prenom,met-e,rest)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="aanw"/>
+              <feat subset="pdtype" class="det"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.6">
+            <t>masters</t>
+            <lemma class="_"/>
+            <pos class="SPEC(vreemd)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="vreemd"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.7">
+            <t>ook</t>
+            <lemma class="ook"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.8">
+            <t>aandacht</t>
+            <lemma class="aandacht"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.9">
+            <t>voor</t>
+            <lemma class="voor"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.10">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.11">
+            <t>maatschappelijke</t>
+            <lemma class="maatschappelijk"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.12">
+            <t>en</t>
+            <lemma class="en"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.13">
+            <t>culturele</t>
+            <lemma class="cultureel"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.14">
+            <t>context</t>
+            <lemma class="context"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.15">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.16">
+            <t>human</t>
+            <lemma class="_"/>
+            <pos class="SPEC(vreemd)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="vreemd"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.17">
+            <t>media</t>
+            <lemma class="media"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.18">
+            <t>interaction</t>
+            <lemma class="interaction"/>
+            <pos class="WW(inf,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.3.w.19">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.6.s.4">
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.1">
+            <t>Dit</t>
+            <lemma class="dit"/>
+            <pos class="VNW(aanw,pron,stan,vol,3o,ev)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="aanw"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="vol"/>
+              <feat subset="persoon" class="3o"/>
+              <feat subset="getal" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.2">
+            <t>betekent</t>
+            <lemma class="betekenen"/>
+            <pos class="WW(pv,tgw,met-t)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="met-t"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.3">
+            <t>dat</t>
+            <lemma class="dat"/>
+            <pos class="VG(onder)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="onder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.4">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.5">
+            <t>studie</t>
+            <lemma class="studie"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.6">
+            <t>zich</t>
+            <lemma class="zich"/>
+            <pos class="VNW(refl,pron,obl,red,3,getal)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="refl"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="obl"/>
+              <feat subset="status" class="red"/>
+              <feat subset="persoon" class="3"/>
+              <feat subset="getal" class="getal"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.7">
+            <t>richt</t>
+            <lemma class="richten"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.8">
+            <t>op</t>
+            <lemma class="op"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.9">
+            <t>studenten</t>
+            <lemma class="student"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.10">
+            <t>met</t>
+            <lemma class="met"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.11">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.12">
+            <t>ruime</t>
+            <lemma class="ruim"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.13">
+            <t>belangstelling</t>
+            <lemma class="belangstelling"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.4.w.14">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.6.s.5">
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.1">
+            <t>Het</t>
+            <lemma class="het"/>
+            <pos class="VNW(pers,pron,stan,red,3,ev,onz)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="pers"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="red"/>
+              <feat subset="persoon" class="3"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="genus" class="onz"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.2">
+            <t>betekent</t>
+            <lemma class="betekenen"/>
+            <pos class="WW(pv,tgw,met-t)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="met-t"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.3">
+            <t>ook</t>
+            <lemma class="ook"/>
+            <pos class="BW()">
+              <feat subset="head" class="BW"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.4">
+            <t>dat</t>
+            <lemma class="dat"/>
+            <pos class="VG(onder)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="onder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.5">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.6">
+            <t>opleiding</t>
+            <lemma class="opleiding"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.7">
+            <t>interessant</t>
+            <lemma class="interessant"/>
+            <pos class="ADJ(vrij,basis,zonder)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.8">
+            <t>kan</t>
+            <lemma class="kunnen"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.9">
+            <t>zijn</t>
+            <lemma class="zijn"/>
+            <pos class="WW(inf,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.10">
+            <t>voor</t>
+            <lemma class="voor"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.11">
+            <t>studenten</t>
+            <lemma class="student"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.12">
+            <t>die</t>
+            <lemma class="die"/>
+            <pos class="VNW(betr,pron,stan,vol,persoon,getal)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="betr"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="vol"/>
+              <feat subset="persoon" class="persoon"/>
+              <feat subset="getal" class="getal"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.13">
+            <t>geen</t>
+            <lemma class="geen"/>
+            <pos class="VNW(onbep,det,stan,prenom,zonder,agr)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="pdtype" class="det"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="buiging" class="zonder"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.14">
+            <t>vooropleiding</t>
+            <lemma class="vooropleiding"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.15">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.16">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.17">
+            <t>technische</t>
+            <lemma class="technisch"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.18">
+            <t>informatica</t>
+            <lemma class="informatica"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.19">
+            <t>hebben</t>
+            <lemma class="hebben"/>
+            <pos class="WW(pv,tgw,mv)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.20">
+            <t>gehad</t>
+            <lemma class="hebben"/>
+            <pos class="WW(vd,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="vd"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.21">
+            <t>maar</t>
+            <lemma class="maar"/>
+            <pos class="VG(neven)">
+              <feat subset="head" class="VG"/>
+              <feat subset="conjtype" class="neven"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.22">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.23">
+            <t>opleiding</t>
+            <lemma class="opleiding"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.24">
+            <t>hebben</t>
+            <lemma class="hebben"/>
+            <pos class="WW(pv,tgw,mv)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="npagr" class="mv"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.25">
+            <t>die</t>
+            <lemma class="die"/>
+            <pos class="VNW(aanw,det,stan,prenom,zonder,rest)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="aanw"/>
+              <feat subset="pdtype" class="det"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="buiging" class="zonder"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.26">
+            <t>aansluit</t>
+            <lemma class="aansluiten"/>
+            <pos class="WW(pv,tgw,ev)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="pv"/>
+              <feat subset="pvtijd" class="tgw"/>
+              <feat subset="pvagr" class="ev"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.27">
+            <t>bij</t>
+            <lemma class="bij"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.28">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="TW(hoofd,prenom,stan)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.29">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.30">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.31">
+            <t>andere</t>
+            <lemma class="ander"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.32">
+            <t>onderwerpen</t>
+            <lemma class="onderwerp"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.33">
+            <t>die</t>
+            <lemma class="die"/>
+            <pos class="VNW(betr,pron,stan,vol,persoon,getal)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="vwtype" class="betr"/>
+              <feat subset="pdtype" class="pron"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="status" class="vol"/>
+              <feat subset="persoon" class="persoon"/>
+              <feat subset="getal" class="getal"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.34">
+            <t>in</t>
+            <lemma class="in"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.35">
+            <t>het</t>
+            <lemma class="het"/>
+            <pos class="LID(bep,stan,evon)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="evon"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.36">
+            <t>interdisciplinaire</t>
+            <lemma class="interdisciplinair"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.37">
+            <t>veld</t>
+            <lemma class="veld"/>
+            <pos class="N(soort,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.38">
+            <t>van</t>
+            <lemma class="van"/>
+            <pos class="VZ(init)">
+              <feat subset="head" class="VZ"/>
+              <feat subset="vztype" class="init"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.39">
+            <t>de</t>
+            <lemma class="de"/>
+            <pos class="LID(bep,stan,rest)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="bep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="rest"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.40">
+            <t>human</t>
+            <lemma class="_"/>
+            <pos class="SPEC(vreemd)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="vreemd"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.41">
+            <t>media</t>
+            <lemma class="media"/>
+            <pos class="N(soort,mv,basis)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="npagr" class="mv"/>
+              <feat subset="graad" class="basis"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.42">
+            <t>interaction</t>
+            <lemma class="interaction"/>
+            <pos class="WW(inf,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.43">
+            <t>een</t>
+            <lemma class="een"/>
+            <pos class="LID(onbep,stan,agr)">
+              <feat subset="head" class="LID"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="npagr" class="agr"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.44">
+            <t>rol</t>
+            <lemma class="rol"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.45">
+            <t>spelen</t>
+            <lemma class="spelen"/>
+            <pos class="WW(inf,vrij,zonder)">
+              <feat subset="head" class="WW"/>
+              <feat subset="wvorm" class="inf"/>
+              <feat subset="positie" class="vrij"/>
+              <feat subset="buiging" class="zonder"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.5.w.46">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.6.s.6">
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.1">
+            <t>Meer</t>
+            <lemma class="veel"/>
+            <pos class="VNW(onbep,grad,stan,prenom,zonder,agr,comp)">
+              <feat subset="head" class="VNW"/>
+              <feat subset="lwtype" class="onbep"/>
+              <feat subset="pdtype" class="grad"/>
+              <feat subset="naamval" class="stan"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="buiging" class="zonder"/>
+              <feat subset="npagr" class="agr"/>
+              <feat subset="graad" class="comp"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.2">
+            <t>informatie</t>
+            <lemma class="informatie"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.3">
+            <t>:</t>
+            <lemma class=":"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.4">
+            <t>http://parlevink.cs.utwente.nl</t>
+            <lemma class="_"/>
+            <pos class="SPEC(symb)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="symb"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.5">
+            <t>/</t>
+            <lemma class="/"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.6">
+            <t>hmi@cs.utwente.nl</t>
+            <lemma class="_"/>
+            <pos class="SPEC(symb)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="symb"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.7">
+            <t>/</t>
+            <lemma class="/"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.8">
+            <t>053</t>
+            <lemma class="_"/>
+            <pos class="SPEC(symb)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="symb"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.9">
+            <t>-</t>
+            <lemma class="-"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.10">
+            <t>4893740</t>
+            <lemma class="4893740"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.11">
+            <t>/</t>
+            <lemma class="/"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.12">
+            <t>Dirk</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.6.s.6.w.13">
+            <t>Heylen</t>
+            <lemma class="_"/>
+            <pos class="SPEC(deeleigen)">
+              <feat subset="head" class="SPEC"/>
+              <feat subset="spectype" class="deeleigen"/>
+            </pos>
+          </w>
+        </s>
+      </p>
+    </div>
+    <div xml:id="WR-P-E-E-0000000020.div.4">
+      <head xml:id="WR-P-E-E-0000000020.head.4">
+        <s xml:id="WR-P-E-E-0000000020.head.4.s.1">
+          <w xml:id="WR-P-E-E-0000000020.head.4.s.1.w.1">
+            <t>3</t>
+            <lemma class="3"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.4.s.1.w.2">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.head.4.s.2">
+          <w xml:id="WR-P-E-E-0000000020.head.4.s.2.w.1">
+            <t>WEBSITE</t>
+            <lemma class="Website"/>
+            <pos class="ADJ(prenom,basis,met-e,stan)">
+              <feat subset="head" class="ADJ"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="buiging" class="met-e"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.4.s.2.w.2">
+            <t>CLIF</t>
+            <lemma class="clif"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.4.s.2.w.3">
+            <t>VERNIEUWD</t>
+            <lemma class="Vernieuwd"/>
+            <pos class="N(eigen,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+        </s>
+      </head>
+    </div>
+    <div xml:id="WR-P-E-E-0000000020.div.5">
+      <head xml:id="WR-P-E-E-0000000020.head.5">
+        <s xml:id="WR-P-E-E-0000000020.head.5.s.1">
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.1.w.1">
+            <t>4</t>
+            <lemma class="4"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.1.w.2">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.head.5.s.2">
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.1">
+            <t>IST</t>
+            <lemma class="Ist"/>
+            <pos class="N(eigen,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.2">
+            <t>2003</t>
+            <lemma class="2003"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.3">
+            <t>:</t>
+            <lemma class=":"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.4">
+            <t>2</t>
+            <lemma class="2"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.5">
+            <t>-</t>
+            <lemma class="-"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.6">
+            <t>4</t>
+            <lemma class="4"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.7">
+            <t>OKTOBER</t>
+            <lemma class="Oktober"/>
+            <pos class="N(eigen,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.8">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.9">
+            <t>MILAAN</t>
+            <lemma class="Milaan"/>
+            <pos class="N(eigen,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.10">
+            <t>-</t>
+            <lemma class="-"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.11">
+            <t>DEADLINE</t>
+            <lemma class="Deadline"/>
+            <pos class="N(eigen,ev,basis,onz,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="onz"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.head.5.s.2.w.12">
+            <t>VERLENGD</t>
+            <lemma class="verlengd"/>
+            <pos class="N(soort,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="soort"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <entities>
+            <entity xml:id="WR-P-E-E-0000000020.head.5.s.2.entity.1" class="loc">
+              <wref id="WR-P-E-E-0000000020.head.5.s.2.w.9" t="MILAAN"/>
+            </entity>
+          </entities>
+        </s>
+      </head>
+      <p xml:id="WR-P-E-E-0000000020.p.7">
+        <s xml:id="WR-P-E-E-0000000020.p.7.s.1">
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.1.w.1">
+            <t>5</t>
+            <lemma class="5"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.1.w.2">
+            <t>.</t>
+            <lemma class="."/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+        </s>
+        <s xml:id="WR-P-E-E-0000000020.p.7.s.2">
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.2.w.1">
+            <t>LANGTECH</t>
+            <lemma class="Langtech"/>
+            <pos class="N(eigen,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.2.w.2">
+            <t>2003</t>
+            <lemma class="2003"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.2.w.3">
+            <t>:</t>
+            <lemma class=":"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.2.w.4">
+            <t>24</t>
+            <lemma class="24"/>
+            <pos class="TW(hoofd,vrij)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="vrij"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.2.w.5">
+            <t>-</t>
+            <lemma class="-"/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.2.w.6">
+            <t>25</t>
+            <lemma class="25"/>
+            <pos class="TW(hoofd,prenom,stan)">
+              <feat subset="head" class="TW"/>
+              <feat subset="numtype" class="hoofd"/>
+              <feat subset="positie" class="prenom"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.2.w.7">
+            <t>NOVEMBER</t>
+            <lemma class="November"/>
+            <pos class="N(eigen,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.2.w.8">
+            <t>,</t>
+            <lemma class=","/>
+            <pos class="LET()">
+              <feat subset="head" class="LET"/>
+            </pos>
+          </w>
+          <w xml:id="WR-P-E-E-0000000020.p.7.s.2.w.9">
+            <t>PARIJS</t>
+            <lemma class="Parijs"/>
+            <pos class="N(eigen,ev,basis,zijd,stan)">
+              <feat subset="head" class="N"/>
+              <feat subset="ntype" class="eigen"/>
+              <feat subset="getal" class="ev"/>
+              <feat subset="graad" class="basis"/>
+              <feat subset="genus" class="zijd"/>
+              <feat subset="naamval" class="stan"/>
+            </pos>
+          </w>
+          <entities>
+            <entity xml:id="WR-P-E-E-0000000020.p.7.s.2.entity.1" class="loc">
+              <wref id="WR-P-E-E-0000000020.p.7.s.2.w.9" t="PARIJS"/>
+            </entity>
+          </entities>
+        </s>
+      </p>
+    </div>
+    <gap class="backmatter">
+      <content>[Annotator's comment: Originally in paragraph: 0]
+Taal- en spraaktechnologienieuws mei 2003 1. Euromap-eindrapport beschikbaar 2. Nieuwe masters-opleiding Human Media Interaction 3. Website CLIF vernieuwd 4. IST 2003: 2-4 oktober, Milaan - deadline verlengd 5. LangTech 2003: 24-25 november, Parijs Een evenementenagenda voor taal- en spraaktechnologie in Nederland en Vlaanderen vindt u op www.taalunieversum.org/tst/agenda/ (momenteel 13 aankondigingen). Heeft u ook een nieuwsbericht of een aankondiging, dan vernemen wij dat graag! U ontvangt dit bericht omdat uw gegevens zijn opgenomen in de databank van het Platform voor het Nederlands in Taal- en Spraaktechnologie (het TST-Platform, zie ook www.taalunieversum.org/tst/). Wijzigingen voor deze databank kunt u melden via euromap@ntu.nl - dank u wel!   [Annotator's comment: Originally in paragraph: 0]
+Taal- en spraaktechnologienieuws mei 2003 1. Euromap-eindrapport beschikbaar 2. Nieuwe masters-opleiding Human Media Interaction 3. Website CLIF vernieuwd 4. IST 2003: 2-4 oktober, Milaan - deadline verlengd 5. LangTech 2003: 24-25 november, Parijs Een evenementenagenda voor taal- en spraaktechnologie in Nederland en Vlaanderen vindt u op www.taalunieversum.org/tst/agenda/ (momenteel 13 aankondigingen). Heeft u ook een nieuwsbericht of een aankondiging, dan vernemen wij dat graag! U ontvangt dit bericht omdat uw gegevens zijn opgenomen in de databank van het Platform voor het Nederlands in Taal- en Spraaktechnologie (het TST-Platform, zie ook www.taalunieversum.org/tst/). Wijzigingen voor deze databank kunt u melden via euromap@ntu.nl - dank u wel!  [Annotator's comment: Originally in paragraph: 6]
+In 1995, the scientific research community Computational Linguistics and Language Technology was founded, otherwise known as CLIF (Computational Linguistics in Flanders). CLIF is funded by the Fund for Scientific Research. It has become the central contact point for computational linguistics and language and speech technology in Flanders. In January 2000 the CLIF-project was extended until 2005. CLIF aims to: - Strengthen the integration of fundamental research on language and speech technology in Flanders to establish multidisciplinary, fundamental and applied research of natural language and Dutch in particular. - Facilitate research activities of the participating research groups, improving (re-)usability of data for spoken and written language. The new CLIF-site has been put on-line. On this new site, you can expect regular updates and up-to-date information on CLIF- activities. In the next couple of weeks, we will transfer all content from the old site to the new site. See: http://clif.uia.ac.be/.   [Annotator's comment: Originally in paragraph: 0]
+Taal- en spraaktechnologienieuws mei 2003 1. Euromap-eindrapport beschikbaar 2. Nieuwe masters-opleiding Human Media Interaction 3. Website CLIF vernieuwd 4. IST 2003: 2-4 oktober, Milaan - deadline verlengd 5. LangTech 2003: 24-25 november, Parijs Een evenementenagenda voor taal- en spraaktechnologie in Nederland en Vlaanderen vindt u op www.taalunieversum.org/tst/agenda/ (momenteel 13 aankondigingen). Heeft u ook een nieuwsbericht of een aankondiging, dan vernemen wij dat graag! U ontvangt dit bericht omdat uw gegevens zijn opgenomen in de databank van het Platform voor het Nederlands in Taal- en Spraaktechnologie (het TST-Platform, zie ook www.taalunieversum.org/tst/). Wijzigingen voor deze databank kunt u melden via euromap@ntu.nl - dank u wel!  [Annotator's comment: Originally in paragraph: 6]
+In 1995, the scientific research community Computational Linguistics and Language Technology was founded, otherwise known as CLIF (Computational Linguistics in Flanders). CLIF is funded by the Fund for Scientific Research. It has become the central contact point for computational linguistics and language and speech technology in Flanders. In January 2000 the CLIF-project was extended until 2005. CLIF aims to: - Strengthen the integration of fundamental research on language and speech technology in Flanders to establish multidisciplinary, fundamental and applied research of natural language and Dutch in particular. - Facilitate research activities of the participating research groups, improving (re-)usability of data for spoken and written language. The new CLIF-site has been put on-line. On this new site, you can expect regular updates and up-to-date information on CLIF- activities. In the next couple of weeks, we will transfer all content from the old site to the new site. See: http://clif.uia.ac.be/.  [Annotator's comment: Originally in paragraph: 6]
+IST 2003: The opportunities ahead People, Business, Research, Policies This year's edition of the EC's highly influential Information Society Technologies event will take place in Milan on October 2-4, in partnership with SMAU, one of Europe's largest ICT events. As in 2002, participants can shape the event through Calls for Ideas for Conference Workshops, Exhibits and Networking Sessions. The deadline for the Call for Exhibits has been extended to May 19. Defining the IST Event's content with European researchers and companies via Calls for Ideas was pioneered in IST 2002. Like last year, the IST 2003 Calls are open to all - submissions are treated equally during the evaluation, whether they are related to projects funded by the EU's Information Society Technologies (IST) research programme or not, with priority given to 'integrated proposals', involving workshop discussions and research exhibits. Many organisations contacted the Organising Committee requesting extra time for the Exhibition, so while the Call for Conference Proposals closed on May 5, the deadline for Exhibits has been extended until May 19. See: http://europa.eu.int/information_society/istevent/2003/index_en.htm.   [Annotator's comment: Originally in paragraph: 0]
+Taal- en spraaktechnologienieuws mei 2003 1. Euromap-eindrapport beschikbaar 2. Nieuwe masters-opleiding Human Media Interaction 3. Website CLIF vernieuwd 4. IST 2003: 2-4 oktober, Milaan - deadline verlengd 5. LangTech 2003: 24-25 november, Parijs Een evenementenagenda voor taal- en spraaktechnologie in Nederland en Vlaanderen vindt u op www.taalunieversum.org/tst/agenda/ (momenteel 13 aankondigingen). Heeft u ook een nieuwsbericht of een aankondiging, dan vernemen wij dat graag! U ontvangt dit bericht omdat uw gegevens zijn opgenomen in de databank van het Platform voor het Nederlands in Taal- en Spraaktechnologie (het TST-Platform, zie ook www.taalunieversum.org/tst/). Wijzigingen voor deze databank kunt u melden via euromap@ntu.nl - dank u wel!  [Annotator's comment: Originally in paragraph: 6]
+In 1995, the scientific research community Computational Linguistics and Language Technology was founded, otherwise known as CLIF (Computational Linguistics in Flanders). CLIF is funded by the Fund for Scientific Research. It has become the central contact point for computational linguistics and language and speech technology in Flanders. In January 2000 the CLIF-project was extended until 2005. CLIF aims to: - Strengthen the integration of fundamental research on language and speech technology in Flanders to establish multidisciplinary, fundamental and applied research of natural language and Dutch in particular. - Facilitate research activities of the participating research groups, improving (re-)usability of data for spoken and written language. The new CLIF-site has been put on-line. On this new site, you can expect regular updates and up-to-date information on CLIF- activities. In the next couple of weeks, we will transfer all content from the old site to the new site. See: http://clif.uia.ac.be/.  [Annotator's comment: Originally in paragraph: 6]
+IST 2003: The opportunities ahead People, Business, Research, Policies This year's edition of the EC's highly influential Information Society Technologies event will take place in Milan on October 2-4, in partnership with SMAU, one of Europe's largest ICT events. As in 2002, participants can shape the event through Calls for Ideas for Conference Workshops, Exhibits and Networking Sessions. The deadline for the Call for Exhibits has been extended to May 19. Defining the IST Event's content with European researchers and companies via Calls for Ideas was pioneered in IST 2002. Like last year, the IST 2003 Calls are open to all - submissions are treated equally during the evaluation, whether they are related to projects funded by the EU's Information Society Technologies (IST) research programme or not, with priority given to 'integrated proposals', involving workshop discussions and research exhibits. Many organisations contacted the Organising Committee requesting extra time for the Exhibition, so while the Call for Conference Proposals closed on May 5, the deadline for Exhibits has been extended until May 19. See: http://europa.eu.int/information_society/istevent/2003/index_en.htm.  [Annotator's comment: Originally in paragraph: 7]
+The European Forum for Language Technology LangTech 2003 will feature keynote talks from leading players, presentations from a wide range of developers and solution providers, panel discussions of key issues affecting the market in Europe and beyond, and an exhibition of applications, products, services and research prototypes. Special sessions will enable start-up companies to promote and pitch their products and services and explore funding possibilities. Demonstrations of applications, products, services and research prototypes will be featured in the exhibition, and the forum will provide ample opportunities for face-to-face meetings with potential users, providers, partners and investors. LangTech 2003 is organised by ELDA, the Evaluations and Language resources Distribution Agency, assisted by the Euromap committee and several other corporate sponsors. See: http://www.lang-tech.org/.   (c) Nederlandse Taalunie, 2000-2005 alle rechten voorbehouden Wegwijzer - Colofon - Contact - Vragen - Opmerkingen en reacties Site Navigatie * * * * * * Technologie * * Kennisinfrastructuur * Ontwikkelaars * Gebruikers * Beleid * * STEVIN * TST-centrale * * Agenda * Nieuwsbrief * Partnerverzoeken</content>
+    </gap>
+  </text>
+</FoLiA>
