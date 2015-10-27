@@ -84,7 +84,7 @@ func printTable(rows *sql.Rows) {
 Example usage:
 
 ```go
-    rows, err = db.Query("select id as \"i:id\&quot;, name as \&quot;s:name\&quot;, date as \&quot;t:date\&quot; from `items`;&quot;)
+    rows, err = db.Query("select id as \"i:id\", name as \"s:name\", date as \"t:date\" from `items`;")
     checkErr(err)
     printTable(rows)
 ```
