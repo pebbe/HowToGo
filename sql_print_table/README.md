@@ -85,6 +85,7 @@ Example usage:
 
 ```go
     rows, err = db.Query("select id as \"i:id\", name as \"s:name\", date as \"t:date\" from `items`;")
-    checkErr(err)
-    printTable(rows)
+    if err == nil {
+        printTable(rows)
+    }
 ```
