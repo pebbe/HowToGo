@@ -1,6 +1,6 @@
 ## append behavior
 
-see: (message by Jan Mercl)[https://plus.google.com/u/0/100144763948435845718/posts/cRuK8cJhEU4]
+see: [message by Jan Mercl](https://plus.google.com/u/0/100144763948435845718/posts/cRuK8cJhEU4)
 
 ```go
 package main
