@@ -3,7 +3,8 @@
 Over het resultaat van testb():
 
 If you look a the spec [http://golang.org/ref/spec#Return_statements]:
-        A "return" statement that specifies results sets the result parameters before any deferred functions are executed.
+        A "return" statement that specifies results sets the result
+        parameters before any deferred functions are executed.
 
 In other words, your return statement sets a to its own value, which is 1,
 and then the deferred function runs and sets a to 2.

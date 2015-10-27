@@ -1,3 +1,9 @@
+/*
+
+How to handle unknown attributes
+
+*/
+
 package main
 
 import (
