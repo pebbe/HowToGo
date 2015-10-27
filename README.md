@@ -3,7 +3,8 @@ How to do things in Go
 ## my stuff
 
 - [cgo: C++ iterator wrapped in C](https://github.com/rug-compling/alpinocorpus-go/blob/master/alpinocorpus/reader.go)
-- [GTK+](https://github.com/pebbe/go-gtk-demo)
+- [GTK+ demo](https://github.com/pebbe/go-gtk-demo)
+- [OpenGL demo](https://github.com/pebbe/gl)
 
 ## stuff by others
 
