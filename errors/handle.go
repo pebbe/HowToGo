@@ -1,8 +1,14 @@
+/*
+
+Printing make-like warnings and errors
+
+*/
+
 package main
 
 import (
 	"fmt"
-	"log"
+	"os"
 	"runtime"
 	"strconv"
 	"strings"
@@ -38,15 +44,15 @@ func x(err error, a ...interface{}) bool {
 	s := err.Error()
 	_, filename, lineno, ok := runtime.Caller(1)
 	if ok {
-		s = fmt.Sprintf("ERROR %s[%d] %s", filename, lineno, s)
+		s = fmt.Sprintf("%s:%d: warning: %s", filename, lineno, s)
 	} else {
-		s = "ERROR " + s
+		s = "warning: " + s
 	}
 	if len(a) > 0 {
 		s = s + " | " + strings.TrimSpace(fmt.Sprintln(a...))
 	}
 
-	log.Print(s)
+	fmt.Println(s)
 
 	return true
 
@@ -61,14 +67,14 @@ func xx(err error, a ...interface{}) {
 	s := err.Error()
 	_, filename, lineno, ok := runtime.Caller(1)
 	if ok {
-		s = fmt.Sprintf("FATAL %s[%d] %s", filename, lineno, s)
+		s = fmt.Sprintf("%s:%d: error: %s", filename, lineno, s)
 	} else {
-		s = "ERROR " + s
+		s = "error: " + s
 	}
 	if len(a) > 0 {
 		s = s + " | " + strings.TrimSpace(fmt.Sprintln(a...))
 	}
 
-	log.Fatal(s)
-
+	fmt.Println(s)
+	os.Exit(1)
 }
