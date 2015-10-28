@@ -14,11 +14,17 @@ type Light struct {
 	age int
 }
 
+func NewLight() Light {
+	return Light{
+		age: 0,
+	}
+}
+
 func (light *Light) On() error {
-	light.age++
 	if light.age == 5 {
 		return fmt.Errorf("The light broke")
 	}
+	light.age++
 	fmt.Println("The light is on")
 	return nil
 }
@@ -33,6 +39,13 @@ type Switch struct {
 	outlet OnOff
 }
 
+func NewSwitch(outlet OnOff) Switch {
+	return Switch{
+		isOn:   false,
+		outlet: outlet,
+	}
+}
+
 func (s *Switch) Flip() error {
 	s.isOn = !s.isOn
 	if s.isOn {
@@ -43,8 +56,8 @@ func (s *Switch) Flip() error {
 
 func main() {
 
-	l := Light{}
-	s := Switch{outlet: &l} // *Light implements OnOff
+	l := NewLight()
+	s := NewSwitch(&l) // *Light implements OnOff
 
 	for {
 		err := s.Flip()
