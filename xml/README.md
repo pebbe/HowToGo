@@ -2,9 +2,8 @@ To unmarshall XML that is not in UTF-8:
 
 ```go
 import (
-	"github.com/paulrosania/go-charset/charset"
-	_ "github.com/paulrosania/go-charset/data"
-	"encoding/xml"
+    "golang.org/x/net/html/charset"
+    "encoding/xml"
 )
 ```
 
@@ -12,8 +11,8 @@ import (
 
 ```go
 
-	d := xml.NewDecoder(os.Stdin)
-	d.CharsetReader = charset.NewReader
-	var t myType
-	err := d.Decode(&t)
+    d := xml.NewDecoder(os.Stdin)
+    d.CharsetReader = charset.NewReaderLabel
+    var t myType
+    err := d.Decode(&t)
 ```
