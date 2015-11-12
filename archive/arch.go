@@ -90,21 +90,30 @@ func (a *arch) Next() error {
 		return errClosed
 	}
 	if a.isZip {
-		if a.zi == len(a.zr.File) {
-			if a.opened {
-				a.opened = false
-				a.zr.Close()
+		for {
+			if a.zi == len(a.zr.File) {
+				if a.opened {
+					a.opened = false
+					a.zr.Close()
+				}
+				return io.EOF
 			}
-			return io.EOF
+			a.zi++
+			if !a.zr.File[a.zi-1].FileInfo().IsDir() {
+				return nil
+			}
 		}
-		a.zi++
-		return nil
 	}
 
 	if !a.tstart {
 		a.tstart = true
 	} else {
-		a.theader, a.terr = a.tr.Next()
+		for {
+			a.theader, a.terr = a.tr.Next()
+			if a.terr != nil || !a.theader.FileInfo().IsDir() {
+				break
+			}
+		}
 	}
 	if a.terr == io.EOF {
 		a.opened = false
