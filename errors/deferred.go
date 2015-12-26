@@ -20,8 +20,8 @@ type ErrType struct {
 
 func main() {
 
-	var err0, err1, err2, err3 ErrType
-	errors := []*ErrType{&err0, &err1, &err2, &err3}
+	var errA, errB, errX, errY ErrType
+	errors := []*ErrType{&errA, &errB, &errX, &errY}
 	defer func() {
 		for _, err := range errors {
 			if (*err).err != nil {
@@ -30,10 +30,10 @@ func main() {
 		}
 	}()
 
-	a, err0 := atoi("A")
-	b, err1 := atoi("B")
-	x, err2 := atoi("X")
-	y, err3 := atoi("Y")
+	a, errA := atoi("A")
+	b, errB := atoi("B")
+	x, errX := atoi("X")
+	y, errY := atoi("Y")
 	if any(errors) {
 		return
 	}
