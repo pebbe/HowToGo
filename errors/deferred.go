@@ -13,26 +13,26 @@ import (
 )
 
 type ErrType struct {
-	err      error
 	filename string
 	lineno   int
+	err      error
 }
 
 func main() {
 
 	var errA, errB, errX, errY ErrType
-	errors := []*ErrType{&errA, &errB, &errX, &errY}
+	errors := []*ErrType{&errA, &errB, &errX, &errY} // using this slice causes a compile time error if you forget a variable
 	defer func() {
 		for _, err := range errors {
-			if (*err).err != nil {
-				fmt.Printf("%s:%d: %v\n", (*err).filename, (*err).lineno, (*err).err)
+			if !err.isNil() {
+				fmt.Println(err)
 			}
 		}
 	}()
 
-	a, errA := atoi("A")
+	a, errA := atoi("2")
 	b, errB := atoi("B")
-	x, errX := atoi("X")
+	x, errX := atoi("4")
 	y, errY := atoi("Y")
 	if any(errors) {
 		return
@@ -41,22 +41,25 @@ func main() {
 	fmt.Println(x / y)
 }
 
-func atoi(s string) (int, ErrType) {
-	var e ErrType
-	i, err := strconv.Atoi(s)
-	if err == nil {
-		return i, e
-	}
-	e.err = err
+func atoi(s string) (i int, e ErrType) {
 	_, e.filename, e.lineno, _ = runtime.Caller(1)
-	return 0, e
+	i, e.err = strconv.Atoi(s)
+	return
 }
 
 func any(errors []*ErrType) bool {
 	for _, err := range errors {
-		if (*err).err != nil {
+		if !err.isNil() {
 			return true
 		}
 	}
 	return false
+}
+
+func (e *ErrType) isNil() bool {
+	return (*e).err == nil
+}
+
+func (e *ErrType) String() string {
+	return fmt.Sprintf("%s:%d: %v", (*e).filename, (*e).lineno, (*e).err)
 }
