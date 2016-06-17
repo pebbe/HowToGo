@@ -7,4 +7,4 @@ main: main.go
 	go build -ldflags "-X main.BuildTime${IS}${BUILD_TIME}" main.go
 
 # voor een pakket, i.p.v. main.BuildTime${IS}$${BUILD_TIME} gebruik:
-#     github.com/pebbe/pakket/core.BuildTime${IS}${BUILD_TIME}
+#     github.com/pebbe/pakket.BuildTime${IS}${BUILD_TIME}
