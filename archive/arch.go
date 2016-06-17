@@ -105,14 +105,15 @@ func (a *arch) Next() error {
 		}
 	}
 
-	if !a.tstart {
-		a.tstart = true
-	} else {
-		for {
+	// in the setup, there has already been a call to a.tr.Next(), so that's why this weird construct
+	for {
+		if a.tstart {
 			a.theader, a.terr = a.tr.Next()
-			if a.terr != nil || !a.theader.FileInfo().IsDir() {
-				break
-			}
+		} else {
+			a.tstart = true
+		}
+		if a.terr != nil || !a.theader.FileInfo().IsDir() {
+			break
 		}
 	}
 	if a.terr == io.EOF {
@@ -128,18 +129,18 @@ func (a *arch) ReadN(n uint) ([]byte, error) {
 		return []byte{}, errClosed
 	}
 
+	b := make([]byte, n)
+
 	if a.isZip {
 		rc, err := a.zr.File[a.zi-1].Open()
 		if err != nil {
 			return []byte{}, err
 		}
-		b := make([]byte, n)
 		_, err = io.ReadFull(rc, b)
 		rc.Close()
 		return b, err
 	}
 
-	b := make([]byte, n)
 	_, err := io.ReadFull(a.tr, b)
 	return b, err
 }
@@ -161,6 +162,25 @@ func (a *arch) Read() ([]byte, error) {
 
 	b, err := ioutil.ReadAll(a.tr)
 	return b, err
+}
+
+func (a *arch) Copy(fp io.Writer) error {
+	if !a.opened {
+		return errClosed
+	}
+
+	if a.isZip {
+		rc, err := a.zr.File[a.zi-1].Open()
+		if err != nil {
+			return err
+		}
+		_, err = io.Copy(fp, rc)
+		rc.Close()
+		return err
+	}
+
+	_, err := io.Copy(fp, a.tr)
+	return err
 }
 
 func (a *arch) Name() string {
