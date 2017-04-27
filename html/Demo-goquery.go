@@ -22,7 +22,7 @@ func main() {
 	doc, err := goquery.NewDocumentFromResponse(resp)
 	x(err)
 	resp.Body.Close()
-	doc.Find("div.post").EachWithBreak(func(i int, s *goquery.Selection) bool {
+	doc.Find("section.post").EachWithBreak(func(i int, s *goquery.Selection) bool {
 		h, err := s.Html()
 		x(err)
 		fmt.Println(">>>", h)

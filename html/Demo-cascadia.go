@@ -19,7 +19,7 @@ func main() {
 	x(err)
 	resp.Body.Close()
 
-	sel, err := cascadia.Compile("div.post")
+	sel, err := cascadia.Compile("section.post")
 	x(err)
 
 	for i, n := range sel.MatchAll(doc) {
