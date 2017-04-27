@@ -7,8 +7,10 @@ Demo of using XPATH with name spaces
 package main
 
 import (
-	"github.com/moovweb/gokogiri/xml"
-	"github.com/moovweb/gokogiri/xpath"
+	//"github.com/moovweb/gokogiri/xml"
+	//"github.com/moovweb/gokogiri/xpath"
+	"github.com/jbowtie/gokogiri/xml"
+	"github.com/jbowtie/gokogiri/xpath"
 
 	"fmt"
 	"io/ioutil"
