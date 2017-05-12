@@ -1,3 +1,5 @@
+// inspired by https://mijailovic.net/2017/05/09/error-handling-patterns-in-go
+
 package main
 
 import (
