@@ -30,7 +30,8 @@ func main() {
 
 	var err Err
 
-	_ = err.ok(readint("123", &a)) &&
+	_ = true &&
+		err.ok(readint("123", &a)) &&
 		err.ok(readint("456", &b)) &&
 		err.ok(readint("4fd", &c)) &&
 		err.ok(readint("qas", &d)) &&
