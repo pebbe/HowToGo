@@ -15,6 +15,7 @@ type Error struct {
 
 func (e *Error) ok(err error) bool {
 	if err == nil {
+		e.err = nil
 		return true
 	}
 	_, filename, lineno, ok := runtime.Caller(1)
