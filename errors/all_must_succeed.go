@@ -7,11 +7,11 @@ import (
 	"strconv"
 )
 
-type Err struct {
+type Error struct {
 	err error
 }
 
-func (e *Err) ok(err error) bool {
+func (e *Error) ok(err error) bool {
 	if err == nil {
 		return true
 	}
@@ -28,17 +28,17 @@ func main() {
 
 	var a, b, c, d, e int
 
-	var err Err
+	var x Error
 
 	_ = true &&
-		err.ok(readint("123", &a)) &&
-		err.ok(readint("456", &b)) &&
-		err.ok(readint("4fd", &c)) &&
-		err.ok(readint("qas", &d)) &&
-		err.ok(readint("boo", &e))
+		x.ok(readint("123", &a)) &&
+		x.ok(readint("456", &b)) &&
+		x.ok(readint("4fd", &c)) &&
+		x.ok(readint("qas", &d)) &&
+		x.ok(readint("boo", &e))
 
-	if err.err != nil {
-		log.Println(err.err)
+	if x.err != nil {
+		log.Println(x.err)
 	}
 
 	fmt.Println(a, b, c, d, e)
