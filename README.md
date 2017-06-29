@@ -19,4 +19,4 @@ How to do things in Go
  
 ## my links
 
-- [delicious bookmarks](http://delicious.com/pebbe/go)
+- [pinboard bookmarks](https://pinboard.in/u:pebbe/t:go/)
