@@ -19,3 +19,4 @@ for i, v := range a {
 }
 ```
 
+See https://github.com/golang/go/issues/20621
