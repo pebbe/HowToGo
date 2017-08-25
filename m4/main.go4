@@ -1,0 +1,14 @@
+package main
+
+import (
+	"fmt"
+	"os"
+	"strconv"
+)
+
+func main() {
+	var err error
+	var i int
+	i, m4err(strconv.Atoi("abc"))
+	fmt.Println(i)
+}
