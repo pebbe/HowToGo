@@ -4,6 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"log"
+	"strings"
 )
 
 type ThingListT []*ThingT
@@ -23,7 +24,8 @@ type ThingT struct {
 }
 
 var (
-	data = `<doc>
+	data = `<?xml version="1.0"?>
+<doc>
   <thing id="A" foo="yes" bar="yes">
     <thing id="B" foo="yes" />
   </thing>
@@ -51,65 +53,73 @@ func main() {
 		setParents(thing)
 	}
 
-	// $doc/thing[@foo="yes" and not(@bar)]
+	fmt.Println(data)
+
+	fmt.Println(`xpath: /thing[@foo="yes" and not(@bar)]`)
 	if doc.Things.Test(foo("yes"), bar("")) {
-		fmt.Println("found")
 		for _, d := range doc.Things.List(foo("yes"), bar("")) {
+			fmt.Println("found:")
 			fmt.Println(d)
 		}
 	} else {
 		fmt.Println("not found")
 	}
+	fmt.Println()
 
-	// $doc/thing[@foo="yes" and @bar="yes"]
+	fmt.Println(`xpath: /thing[@foo="yes" and @bar="yes"]`)
 	if doc.Things.Test(foo("yes"), bar("yes")) {
-		fmt.Println("found")
 		for _, d := range doc.Things.List(foo("yes"), bar("yes")) {
+			fmt.Println("found:")
 			fmt.Println(d)
 		}
 	} else {
 		fmt.Println("not found")
 	}
+	fmt.Println()
 
-	// $doc/thing[@bar="yes" or @qin > 1]
+	fmt.Println(`xpath: /thing[@bar="yes" or @qin > 1]`)
 	if doc.Things.Test(or(bar("yes"), qinGreater(1))) {
-		fmt.Println("found")
 		for _, d := range doc.Things.List(or(bar("yes"), qinGreater(1))) {
+			fmt.Println("found:")
 			fmt.Println(d)
 		}
 	} else {
 		fmt.Println("not found")
 	}
+	fmt.Println()
 
-	// $doc//thing[@qin && (@qin < 10 or @qin > 100)]
+	fmt.Println(`xpath: //thing[@qin && (@qin < 10 or @qin > 100)]`)
 	if doc.Things.DescendantOrSelfThing().Test(notQin(0), or(qinLess(10), qinGreater(100))) {
-		fmt.Println("found")
 		for _, d := range doc.Things.DescendantOrSelfThing().List(notQin(0), or(qinLess(10), qinGreater(100))) {
+			fmt.Println("found:")
 			fmt.Println(d)
 		}
 	} else {
 		fmt.Println("not found")
 	}
+	fmt.Println()
 
-	// $doc//thing[@qin = 333]/..
+	fmt.Println(`xpath: //thing[@qin = 333]/..`)
 	if doc.Things.DescendantOrSelfThing().List(qin(333)).hasParent() {
-		fmt.Println("found")
 		for _, d := range doc.Things.DescendantOrSelfThing().List(qin(333)).Parent() {
+			fmt.Println("found:")
 			fmt.Println(d)
 		}
 	} else {
 		fmt.Println("not found")
 	}
+	fmt.Println()
 
-	// $doc//thing[@qin = 1 and thing[@qin < 0]]
+	fmt.Println(`xpath: //thing[@qin = 1 and thing[@qin < 0]]`)
 	if doc.Things.DescendantOrSelfThing().Test(qin(1), Thing(qinLess(0))) {
-		fmt.Println("found")
 		for _, d := range doc.Things.DescendantOrSelfThing().List(qin(1), Thing(qinLess(0))) {
+			fmt.Println("found:")
 			fmt.Println(d)
 		}
 	} else {
 		fmt.Println("not found")
 	}
+	fmt.Println()
 
 }
 
@@ -125,7 +135,9 @@ func (t *ThingT) String() string {
 	if err != nil {
 		log.Fatal(err)
 	}
-	return string(b)
+	return strings.Replace(
+		strings.Replace(string(b), "ThingT", "thing", -1),
+		"></thing>", " />", -1)
 }
 
 func (things ThingListT) Test(t ...func(*ThingT) bool) bool {
