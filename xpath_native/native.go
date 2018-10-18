@@ -57,7 +57,8 @@ func main() {
 
 	////////////////////////////////
 
-	fmt.Println(`xpath: /thing[@foo="yes" and not(@bar)]`)
+	fmt.Println(`xpath: /doc/thing[@foo="yes" and not(@bar)]`)
+
 	if doc.Thing.Test(Foo("yes"), Bar("")) {
 		fmt.Println("found")
 	} else {
@@ -65,7 +66,7 @@ func main() {
 	}
 	fmt.Println()
 
-	fmt.Println(`xpath: /thing[@foo="yes" and @bar="yes"]`)
+	fmt.Println(`xpath: /doc/thing[@foo="yes" and @bar="yes"]`)
 	if things := doc.Thing.List(Foo("yes"), Bar("yes")); Any(things) {
 		for _, d := range things {
 			fmt.Println("found:")
@@ -85,7 +86,8 @@ func main() {
 
 	////////////////////////////////
 
-	fmt.Println(`xpath: /thing[@bar]/thing[not(@bar)]`)
+	fmt.Println(`xpath: /doc/thing[@bar]/thing[not(@bar)]`)
+
 	if things := doc.Thing.List(NotBar("")).Thing().List(Bar("")); Any(things) {
 		for _, d := range things {
 			fmt.Println("found:")
@@ -109,7 +111,8 @@ func main() {
 
 	////////////////////////////////
 
-	fmt.Println(`xpath: /thing[@bar="yes" or @qin > 1]`)
+	fmt.Println(`xpath: /doc/thing[@bar="yes" or @qin > 1]`)
+
 	if things := doc.Thing.List(Or(Bar("yes"), QinGreater(1))); Any(things) {
 		for _, d := range things {
 			fmt.Println("found:")
@@ -120,7 +123,7 @@ func main() {
 	}
 	fmt.Println()
 
-	fmt.Println(`xpath: //thing[@qin && (@qin < 10 or @qin > 100)]`)
+	fmt.Println(`xpath: /doc//thing[@qin && (@qin < 10 or @qin > 100)]`)
 	if things := doc.Thing.DescendantOrSelfThing().List(NotQin(0), Or(QinLess(10), QinGreater(100))); Any(things) {
 		for _, d := range things {
 			fmt.Println("found:")
@@ -133,7 +136,8 @@ func main() {
 
 	////////////////////////////////
 
-	fmt.Println(`xpath: //thing[@qin = 333]/..`)
+	fmt.Println(`xpath: /doc//thing[@qin = 333]/..`)
+
 	if things := doc.Thing.DescendantOrSelfThing().List(Qin(333)).Parent(); Any(things) {
 		for _, d := range things {
 			fmt.Println("found:")
@@ -158,7 +162,8 @@ func main() {
 
 	////////////////////////////////
 
-	fmt.Println(`xpath: //thing[@qin = 1 and thing[@qin < 0]]`)
+	fmt.Println(`xpath: /doc//thing[@qin = 1 and thing[@qin < 0]]`)
+
 	if things := doc.Thing.DescendantOrSelfThing().List(Qin(1), Thing(QinLess(0))); Any(things) {
 		for _, d := range things {
 			fmt.Println("found:")
