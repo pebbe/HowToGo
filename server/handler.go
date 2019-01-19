@@ -3,8 +3,9 @@ package main
 import (
 	"fmt"
 	"log"
+	"math/rand"
 	"net/http"
-	"path"
+	"time"
 )
 
 type context struct {
@@ -18,11 +19,10 @@ func (s *server) routes() {
 
 	s.handleFunc("/hello", handleHello)
 	s.handleFunc("/admin", handleAdmin, isAdmin)
-	s.handleFunc("/dbase", handleDB, openDB)
+	s.handleFunc("/dbase", handleDB, withDB)
 }
 
 func (s *server) handleFunc(url string, handler func(*context), options ...func(*context) (ok bool, defered func())) {
-	url = path.Join("/", url)
 	s.router.HandleFunc(
 		url,
 		func(w http.ResponseWriter, r *http.Request) {
@@ -37,6 +37,10 @@ func (s *server) handleFunc(url string, handler func(*context), options ...func(
 				w: w,
 				r: r,
 			}
+
+			defer func() {
+				log.Print("Database when done: ", q.db)
+			}()
 
 			for _, option := range options {
 				ok, defered := option(q)
@@ -70,7 +74,8 @@ func handleDB(q *context) {
 // HANDLER OPTIONS
 
 func isAdmin(q *context) (ok bool, defered func()) {
-	admin := true
+	rand.Seed(time.Now().Unix())
+	admin := (rand.Intn(2) == 0)
 
 	if !admin {
 		http.NotFound(q.w, q.r)
@@ -80,7 +85,7 @@ func isAdmin(q *context) (ok bool, defered func()) {
 	return true, nil
 }
 
-func openDB(q *context) (ok bool, defered func()) {
+func withDB(q *context) (ok bool, defered func()) {
 	q.db = "OPENED DATABASE"
 	log.Printf("Opening database: %v", q.db)
 	return true, func() {
