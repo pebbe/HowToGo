@@ -52,6 +52,7 @@ func (s *server) handleFunc(url string, handler func(*context), options ...func(
 					defer defered()
 				}
 				if !ok {
+					log.Print("This is not OK")
 					return
 				}
 			}
