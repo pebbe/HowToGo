@@ -5,10 +5,6 @@ import (
 	"net/http"
 )
 
-type server struct {
-	router *http.ServeMux
-}
-
 func main() {
 	s := &server{}
 	s.routes()

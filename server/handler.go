@@ -8,6 +8,10 @@ import (
 	"time"
 )
 
+type server struct {
+	router *http.ServeMux
+}
+
 type context struct {
 	w  http.ResponseWriter
 	r  *http.Request
