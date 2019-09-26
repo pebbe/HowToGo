@@ -37,6 +37,8 @@ func main() {
 
 	xps := xpath.Compile("//folia:s")
 	xpw := xpath.Compile("folia:w/folia:t")
+	defer xps.Free()
+	defer xpw.Free()
 
 	ss, err := doc.Root().Search(xps)
 	if err != nil {
