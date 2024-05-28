@@ -19,4 +19,4 @@ How to do things in Go
  
 ## my links
 
-- [pinboard bookmarks](https://pinboard.in/u:pebbe/t:go/)
+- [bookmarks](https://b.bisse.nl/bookmarks/shared?q=%23go)
