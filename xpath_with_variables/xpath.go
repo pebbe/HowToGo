@@ -8,6 +8,7 @@ package main
 
 import (
 	"fmt"
+	"unsafe"
 
 	"github.com/jbowtie/gokogiri"
 	"github.com/jbowtie/gokogiri/xml"
@@ -62,7 +63,7 @@ func main() {
 		&varScope{
 			vars: map[string]interface{}{
 				"chimps": xml.Nodeset(chimps).ToPointers(),
-				"cats":   xml.Nodeset(cats).ToPointers(),
+				"cats":   []unsafe.Pointer{cats[0].NodePtr()},
 			},
 		})
 	x(err)
