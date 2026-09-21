@@ -28,10 +28,11 @@ func main() {
 	mn := NewRT(unicode.Mn) // Mn: nonspacing marks
 
 	t := transform.Chain(norm.NFKD, runes.Remove(mn), norm.NFKC)
-	_, _, e := t.Transform(b, []byte(s), true)
+	n, _, e := t.Transform(b, []byte(s), true)
 	if e != nil {
 		panic(e)
 	}
 
-	fmt.Println(string(b))
+	fmt.Println(string(b[:n]))
+
 }
